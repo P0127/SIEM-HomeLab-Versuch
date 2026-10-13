@@ -50,7 +50,7 @@ flowchart TD
     E --> F["I analyze the Logs"]
 ```
 
-## How I set it up (short version)
+## How I set it up 
 
 - **Wazuh server:** installed Ubuntu Server, then ran Wazuh's install script. I
   gave it a fixed IP so the agent always knows where to find it.
