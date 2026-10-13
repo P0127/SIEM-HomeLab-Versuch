@@ -1,5 +1,3 @@
-test
-
 # SIEM Home Lab (Wazuh + Sysmon + Kali)
 
 Hi! I'm a Media Informatics student who wants to go into cybersecurity, and I
